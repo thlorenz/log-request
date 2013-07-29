@@ -1,6 +1,6 @@
 {
   "name": "log-request",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Small wrapper around npmlog that logs http requests in nice colors.",
   "main": "index.js",
   "scripts": {
